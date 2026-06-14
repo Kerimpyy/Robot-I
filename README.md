@@ -1,2 +1,0 @@
-# Robot-I
-Robot I
